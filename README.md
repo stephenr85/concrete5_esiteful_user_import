@@ -1,4 +1,4 @@
-concrete5_user_import
+concrete5_esiteful_user_import
 =====================
 
-Import users from a CSV.
+Import or delete users using a CSV.
